@@ -160,6 +160,63 @@ strong {
   font-size: 15px !important;
 }
 
+.subscribe {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: white;
+  width: 100%;
+  height: 400px;
+  margin-top: 70px;
+}
+
+.subscribe__title {
+  font-weight: bold;
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+
+.subscribe__copy {
+  max-width: 600px;
+  text-align: center;
+  margin-bottom: 30px;
+  line-height: 1.5;
+}
+
+.form {
+  margin-bottom: 25px;
+}
+
+.form__email {
+  padding: 20px 25px;
+  border-radius: 5px;
+  border: 1px solid #CAD3DB;
+  width: 431px;
+  font-size: 18px;
+  color: #0F121F;
+}
+
+.form__email:focus {
+  outline: 1px solid #222;
+}
+
+.form__button {
+  background: #222;
+  padding: 10px;
+  border: none;
+  width: 244px;
+  height: 65px;
+  border-radius: 5px;
+  font-size: 18px;
+  color: white;
+  transition: 0.5s all;
+}
+
+.form__button:hover {
+  background: #222;
+  box-shadow: 0 2px 5px #222;
+}
 
 /*--------------------------------------------------------------
 # Hero & Header New
