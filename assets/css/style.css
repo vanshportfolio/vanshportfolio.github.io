@@ -1191,6 +1191,58 @@ nav ul li a:hover::after{
   #portfolio-details {
     background: url("../img/portfolio-details.png") repeat scroll center center/cover;
   }
+
+  .subscribe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    width: 100%;
+    height: 400px;
+    margin-top: 70px;
+    padding: 0 100px;
+  } 
+
+  .subscribe__title {
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .subscribe__copy {
+    max-width: 600px;
+    text-align: center;
+    margin-bottom: 30px;
+    line-height: 1.5;
+  }
+
+  .form {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+  .form__email {
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: 1px solid #CAD3DB;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #0F121F;
+  }
+  .form__button {
+    background: #222;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    height: 65px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    transition: 0.5s all;
+  }
 }
 /** Width between 767px to 0
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1284,6 +1336,59 @@ nav ul li a:hover::after{
     float: none;
     display: inline-block;
   }
+
+  .subscribe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    width: 100%;
+    height: 400px;
+    margin-top: 150px;
+    padding: 0 100px;
+  } 
+
+  .subscribe__title {
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .subscribe__copy {
+    max-width: 600px;
+    text-align: center;
+    margin-bottom: 30px;
+    line-height: 1.5;
+  }
+
+  .form {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+  .form__email {
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: 1px solid #CAD3DB;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #0F121F;
+  }
+  .form__button {
+    background: #222;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    height: 65px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 70px;
+    transition: 0.5s all;
+  }
 }
 /** Width between 600px to 0
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1375,6 +1480,59 @@ nav ul li a:hover::after{
     margin-left: 0;
     float: none;
     display: inline-block;
+  }
+
+  .subscribe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    width: 100%;
+    height: 400px;
+    margin-top: 150px;
+    padding: 0 100px;
+  } 
+
+  .subscribe__title {
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .subscribe__copy {
+    max-width: 600px;
+    text-align: center;
+    margin-bottom: 30px;
+    line-height: 1.5;
+  }
+
+  .form {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+  .form__email {
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: 1px solid #CAD3DB;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #0F121F;
+  }
+  .form__button {
+    background: #222;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    height: 65px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 70px;
+    transition: 0.5s all;
   }
 }
 /** Width between 480px to 0
@@ -1492,6 +1650,59 @@ nav ul li a:hover::after{
     margin-left: 0;
     float: none;
     display: inline-block;
+  }
+
+  .subscribe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    width: 100%;
+    height: 400px;
+    margin-top: 150px;
+    padding: 0 100px;
+  } 
+
+  .subscribe__title {
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .subscribe__copy {
+    max-width: 600px;
+    text-align: center;
+    margin-bottom: 30px;
+    line-height: 1.5;
+  }
+
+  .form {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+  .form__email {
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: 1px solid #CAD3DB;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #0F121F;
+  }
+  .form__button {
+    background: #222;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    height: 65px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 70px;
+    transition: 0.5s all;
   }
 }
 /** Width between 320px to 0
@@ -1618,3 +1829,56 @@ nav ul li a:hover::after{
     margin-right: 0;
   }
 }
+
+.subscribe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    width: 100%;
+    height: 400px;
+    margin-top: 150px;
+    padding: 0 100px;
+  } 
+
+  .subscribe__title {
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .subscribe__copy {
+    max-width: 600px;
+    text-align: center;
+    margin-bottom: 30px;
+    line-height: 1.5;
+  }
+
+  .form {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+
+  .form__email {
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: 1px solid #CAD3DB;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #0F121F;
+  }
+  .form__button {
+    background: #222;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    height: 65px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 70px;
+    transition: 0.5s all;
+  }
