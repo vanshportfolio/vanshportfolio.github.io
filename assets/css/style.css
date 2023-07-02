@@ -852,6 +852,7 @@ nav ul li a:hover::after{
 #portfolio {
   position: relative;
   padding-bottom: 50px;
+  margin-right: 10px;
 }
 #portfolio #portfolio-flters {
   padding: 0;
