@@ -399,7 +399,7 @@ nav ul li a:hover::after{
   font-size: 30px;
   font-weight: 500;
   line-height: 40px !important;
-  width: 400px;
+  width: 1000px;
   max-width: 90%; /* Ensures responsiveness */
   margin: 0 auto;
 }
