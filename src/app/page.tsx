@@ -8,39 +8,39 @@ import Navbar from '@/components/Navbar';
 const caseCompetitions = [
   {
     id: 'barclays',
-    title: 'Barclays Investment Banking Case Competition',
-    date: '2024',
-    description: 'Led a team in analyzing and presenting investment opportunities in the technology sector, focusing on M&A strategies and market positioning.',
+    title: 'Barclays Equity Research Case Competition',
+    date: 'March 2025',
+    description: 'Led a high-stakes equity research pitch for a tech sector play, delivering institutional-grade analysis and boardroom-caliber strategy',
     achievements: [
-      'Developed comprehensive financial models for potential acquisitions',
-      'Presented to senior Barclays executives',
-      'Won first place in the competition'
+      'Pitched a BUY on AKAM using advanced DCF and comps with a data-driven thesis,
+      'Delivered a 10-minute boardroom-style pitch, delivering institutional-grade insights',
+      'Articulated a conviction-driven investment strategy and alpha potential with executive-level clarity'
     ],
-    skills: ['Financial Modeling', 'M&A Analysis', 'Team Leadership']
+    skills: ['Financial Modeling', 'Tech Sector Pitch', 'Team Leadership']
   },
   {
     id: 'ey',
-    title: 'EY Strategy Case Competition',
-    date: '2023',
-    description: 'Analyzed market entry strategies for a Fortune 500 company looking to expand into emerging markets.',
+    title: 'EY TechX Consulting Case Competition',
+    date: 'November 2024',
+    description: 'Advised Starbucks on scaling personalization through automation and data-driven strategy to drive retention and market share',
     achievements: [
-      'Conducted market research across 5 emerging economies',
-      'Developed risk assessment framework',
-      'Created detailed implementation timeline'
+      'Led a 4-person team to a Top 5 finish out of 110+ teams and 500+ competitors',
+      'Delivered high-impact recommendations to EY Senior Consultants at their NYC HQ',
+      'Proposed a personalization strategy projected to boost customer engagement by 30%'
     ],
     skills: ['Market Analysis', 'Risk Assessment', 'Strategic Planning']
   },
   {
     id: 'boa',
-    title: 'Bank of America Global Markets Challenge',
-    date: '2023',
-    description: 'Participated in a global markets simulation, managing a portfolio of various financial instruments.',
+    title: 'Bank of America M&A Case Competition',
+    date: 'October 2024',
+    description: 'Structured a merger thesis between two major steel companies, focused on synergy capture, valuation upside, and strategic fit',
     achievements: [
-      'Achieved 15% portfolio return in volatile market conditions',
-      'Implemented hedging strategies for risk management',
-      'Presented investment thesis to BofA traders'
+      'Led M&A strategy and modeled deal impact using DCF, Comps, and Precedent Transactions',
+      'Uncovered key operational synergies and quantified EBITDA accretion and IRR scenarios',
+      'Delivered a boardroom-style pitch backed by KPI-driven insights and bulletproof logic'
     ],
-    skills: ['Portfolio Management', 'Risk Management', 'Market Analysis']
+    skills: ['Portfolio Management', 'Risk Management', 'M&A Analysis']
   }
 ];
 
