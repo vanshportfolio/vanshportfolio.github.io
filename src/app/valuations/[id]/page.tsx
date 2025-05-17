@@ -8,7 +8,7 @@ import Navbar from '@/components/Navbar';
 const valuations = [
   {
     id: 1,
-    company: 'Target Coporation Inc,
+    company: 'Target Coporation Inc',
     industry: 'Technology',
     description: 'Comprehensive valuation analysis for a leading technology solutions provider.',
     highlights: [
