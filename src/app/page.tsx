@@ -13,7 +13,7 @@ const caseCompetitions = [
     description: 'Led a high-stakes equity research pitch for a tech sector play, delivering institutional-grade analysis and boardroom-caliber strategy',
     achievements: [
       'Pitched a BUY on AKAM using advanced DCF and comps with a data-driven thesis,
-      'Delivered a 10-minute boardroom-style pitch, delivering institutional-grade insights',
+      'Delivered a 10 minute boardroom-style pitch, delivering institutional-grade insights',
       'Articulated a conviction-driven investment strategy and alpha potential with executive-level clarity'
     ],
     skills: ['Financial Modeling', 'Tech Sector Pitch', 'Team Leadership']
