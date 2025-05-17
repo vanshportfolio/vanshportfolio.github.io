@@ -127,7 +127,7 @@ export default function Home() {
               Vansh Sharma
             </h1>
             <p className="text-xl sm:text-2xl text-gray-700 mb-4 font-medium">
-              MBA Student @ Binghamton
+              MBA Student @ SUNY Binghamton
             </p>
             <p className="text-lg sm:text-xl text-gray-600 mb-12 max-w-3xl mx-auto">
               Turning data into deal flow. Financial Valuations that Mean Business.
@@ -201,7 +201,7 @@ export default function Home() {
             className="text-center mb-16"
           >
             <h2 className="text-4xl sm:text-5xl font-bold mb-6 bg-gradient-to-r from-violet-600 via-fuchsia-500 to-rose-500 bg-clip-text text-transparent">
-              My Journey
+              My Story
             </h2>
             <p className="text-xl text-gray-600">
               A timeline of my professional and educational experience
