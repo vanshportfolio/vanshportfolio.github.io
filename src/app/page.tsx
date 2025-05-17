@@ -153,7 +153,7 @@ export default function Home() {
                 whileTap={{ scale: 0.98 }}
               >
                 <a
-                  href="/resume.pdf"
+                  href="resume.pdf"
                   download
                   className="inline-block px-10 py-5 text-gray-900 rounded-full 
                            shadow-lg hover:shadow-xl transition-all duration-300
