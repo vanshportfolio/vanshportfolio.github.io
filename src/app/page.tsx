@@ -46,14 +46,14 @@ const caseCompetitions = [
 
 const timeline = [
   {
-    year: '2024',
-    title: 'MBA Candidate',
+    year: 'Expected May 2026',
+    title: 'MBA Student',
     company: 'Binghamton University',
-    description: 'Pursuing MBA with focus on Finance and Technology',
+    description: 'Pursuing MBA with concentration in Business Analytics and MIS',
     achievements: [
-      'Selected for Dean\'s List',
-      'Active member of Investment Fund',
-      'Participating in multiple case competitions'
+      'GPA: 3.92/4.00',
+      'Budget Committee at GSO',
+      'TA - FIN322 & FIN450'
     ]
   },
   {
