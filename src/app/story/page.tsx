@@ -31,14 +31,6 @@ const timelineData = [
   },
 ];
 
-const skills = [
-  { name: 'Bloomberg', level: 'Advanced' },
-  { name: 'Python', level: 'Intermediate' },
-  { name: 'Tableau', level: 'Advanced' },
-  { name: 'Power BI', level: 'Advanced' },
-  { name: 'Excel', level: 'Expert' },
-];
-
 const TimelineItem = ({ data, index }: { data: typeof timelineData[0]; index: number }) => {
   const [ref, inView] = useInView({
     triggerOnce: true,
