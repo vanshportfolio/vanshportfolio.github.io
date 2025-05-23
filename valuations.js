@@ -259,9 +259,8 @@ function initializeValuations() {
                 </div>
                 
                 <div class="mt-6 text-center">
-                    <div class="text-3xl font-bold text-violet-600 mb-4" style="font-size: 1.5rem; font-weight: 600;">$9.99 USD</div>
                     <a href="${valuation.paymentLink}" class="inline-block px-6 py-3 bg-gradient-to-r from-violet-600 via-fuchsia-500 to-rose-500 text-white rounded-full font-semibold hover:shadow-lg transition-all duration-300">
-                        Buy the Model
+                        Download the Model
                     </a>
                 </div>
             `;
