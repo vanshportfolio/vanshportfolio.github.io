@@ -71,7 +71,7 @@ const timeline = [
         company: "Binghamton University, School of Management",
         description: "Concentration in Business Analytics and Management Information Systems",
         achievements: [
-            "Strong GPA: 3.92/4.00",
+            "Strong GPA: 3.96/4.00",
             "Driving financial decisions as a member of the Budget Committee at GSO, managing a $25K budget because every dollar should have a job",
             "Driving community impact as a dedicated volunteer with Binghamton’s Center for Civic Engagement"
         ]
