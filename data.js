@@ -42,7 +42,7 @@ const timeline = [
         description: "",
         achievements: [
             "",
-            "Developed over 15+ DCF valuation models and fundamental company research reports aligning with US GAAP standards, using Bloomberg Terminal, FactSet, and S&P Global"
+            "Developed over 5+ DCF valuation models and fundamental company research reports aligning with US GAAP standards, using Bloomberg Terminal, FactSet, and S&P Global"
         ]
     },
     {
