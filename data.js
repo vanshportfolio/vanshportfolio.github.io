@@ -41,8 +41,8 @@ const timeline = [
         company: "VerdeVista Investment Group",
         description: "",
         achievements: [
-            "",
-            "Developed over 5+ DCF valuation models and fundamental company research reports aligning with US GAAP standards, using Bloomberg Terminal, FactSet, and S&P Global"
+            "Negotiated and closed 2 private equity transactions, exceeding $1 million in revenue, by executing strategic financial modeling and due diligence, leading to a 30% surge in portfolio returns",
+            "Developed over 15+ DCF valuation models and fundamental company research reports aligning with US GAAP standards, using Bloomberg Terminal, FactSet, and S&P Global"
         ]
     },
     {
