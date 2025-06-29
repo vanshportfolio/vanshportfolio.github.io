@@ -47,52 +47,6 @@ const valuations = [
         }
     },
     {
-        id: 'taskus',
-        title: 'TaskUs M&A Model [NYSE: TASK]',
-        company: 'May 22, 2025',
-        date: '2025',
-        description: 'Built a DCF that told the real story because great brands deserve a valuation to match.',
-        metrics: {
-            targetPrice: '$220.00',
-            upside: '+25%',
-            peRatio: '32.5x',
-            evEbitda: '25.3x'
-        },
-        keyPoints: [
-            'An M&A Dashboard showing a deal that makes sense',
-            'DCF Valuation with forward-looking financial projections',
-            'Comparables and Precedent Transactions Analysis',
-            'A Debt Waterfall Analysis explaining the deal'
-        ],
-        paymentLink: 'https://buy.stripe.com/3cIbJ11rx1su1lz5mQfYY04',
-        content: {
-            executiveSummary: "Our analysis of Apple Inc. suggests a target price of $220.00, representing a 25% upside from current levels. Apple's ecosystem moat and growing services revenue provide strong support for this valuation.",
-            investmentThesis: [
-                'Strong ecosystem lock-in effect',
-                'Growing services revenue with high margins',
-                'Innovative product pipeline',
-                'Robust balance sheet with significant cash reserves'
-            ],
-            financialAnalysis: [
-                'Services revenue growth of 20% YoY',
-                'Operating margin of 30%',
-                'Free cash flow of $100 billion',
-                'Return on invested capital of 35%'
-            ],
-            methodology: [
-                'Discounted Cash Flow Analysis',
-                'Sum of the Parts Valuation',
-                'Ecosystem Value Assessment'
-            ],
-            risks: [
-                'Supply chain disruptions',
-                'Regulatory scrutiny',
-                'Market saturation in key products',
-                'Competition in services segment'
-            ]
-        }
-    },
-    {
         id: 'birkenstock',
         title: 'Birkenstock DCF Model [NYSE: BIRK]',
         company: 'Nov 21, 2024',
