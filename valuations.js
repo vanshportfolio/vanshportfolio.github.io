@@ -156,7 +156,7 @@ const valuations = [
             'Risk Weighted Assets Calculations and Forecasting',
             'Tier 1 Capital Ratio and Competitors ROE Analysis'
         ],
-        paymentLink: 'https://buy.stripe.com/dRmbJ1gmrgnod4h16AfYY03',
+        paymentLink: 'https://buy.stripe.com/aFabJ1gmrdbcc0d02wfYY0a',
         content: {
             executiveSummary: "Our analysis of Tesla Inc. suggests a target price of $180.00, representing a 10% downside from current levels. While Tesla maintains its leadership position in the EV market, current valuation multiples appear stretched relative to growth prospects.",
             investmentThesis: [
