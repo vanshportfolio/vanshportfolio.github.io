@@ -64,7 +64,7 @@ const valuations = [
             'Debt Scenario Model with optimal capital structure',
             'Dividend Decisions because every $ paid out is a decision'
         ],
-        paymentLink: 'https://buy.stripe.com/3cI5kDc6befge8l02wfYY01',
+        paymentLink: 'https://buy.stripe.com/00waEXc6b2wy4xLaHafYY0b',
         content: {
             executiveSummary: "Our analysis of Apple Inc. suggests a target price of $210.00, representing a 15% upside from current levels. The valuation is based on a combination of DCF analysis and comparable company multiples, taking into account Apple's strong ecosystem, growing services business, and robust cash flow generation.",
             investmentThesis: [
