@@ -18,7 +18,7 @@ const valuations = [
             'Revenue and Cost Synergies Calculation',
             'Accretion/Dilution Analysis'
         ],
-        paymentLink: 'https://buy.stripe.com/cNi28rfin6MO8O18z2fYY05',
+        paymentLink: 'https://buy.stripe.com/14AcN5eej8UW2pDdTmfYY09',
         content: {
             executiveSummary: "Our analysis of Apple Inc. suggests a target price of $220.00, representing a 25% upside from current levels. Apple's ecosystem moat and growing services revenue provide strong support for this valuation.",
             investmentThesis: [
