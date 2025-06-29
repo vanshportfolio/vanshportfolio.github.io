@@ -110,7 +110,7 @@ const valuations = [
             'Revenue Top-Down Model with Industry Analysis',
             'Income Statement/Balance Sheet Projections'
         ],
-        paymentLink: 'https://buy.stripe.com/28E28r8TZ1su2pDeXqfYY02',
+        paymentLink: 'https://buy.stripe.com/fZueVd6LR0oq7JX6qUfYY0c',
         content: {
             executiveSummary: "Our analysis of Tesla Inc. suggests a target price of $180.00, representing a 10% downside from current levels. While Tesla maintains its leadership position in the EV market, current valuation multiples appear stretched relative to growth prospects.",
             investmentThesis: [
