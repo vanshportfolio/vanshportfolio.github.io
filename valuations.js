@@ -3,7 +3,7 @@ const valuations = [
     {
         id: 'birkenstock',
         title: 'Microsoft Advanced DCF Model [NYSE: MSFT]',
-        company: 'Jul 04, 2024',
+        company: 'Jul 04, 2025',
         date: '2024',
         description: 'Built a DCF that told the real story because great brands deserve a valuation to match.',
         metrics: {
