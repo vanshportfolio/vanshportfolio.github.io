@@ -1,7 +1,7 @@
 // Valuations Data
 const valuations = [
     {
-        id: 'birkenstock',
+        id: 'microsoft',
         title: 'Microsoft Advanced DCF Model [NYSE: MSFT]',
         company: 'Jul 04, 2025',
         date: '2024',
