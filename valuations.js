@@ -48,8 +48,8 @@ const valuations = [
     },
     {
         id: 'birkenstock',
-        title: 'Birkenstock DCF Model [NYSE: BIRK]',
-        company: 'Nov 21, 2024',
+        title: 'Microsoft Advanced DCF Model [NYSE: MSFT]',
+        company: 'Jul 04, 2024',
         date: '2024',
         description: 'Built a DCF that told the real story because great brands deserve a valuation to match.',
         metrics: {
@@ -62,9 +62,9 @@ const valuations = [
             'A Financial dashboard that turns numbers into clarity',
             'DCF valuation with forward-looking financial projections',
             'Debt Scenario Model with optimal capital structure',
-            'Dividend Decisions because every $ paid out is a decision'
+            'A Wall Street Level Advanced DCF Analysis'
         ],
-        paymentLink: 'https://buy.stripe.com/00waEXc6b2wy4xLaHafYY0b',
+        paymentLink: 'https://buy.stripe.com/6oUdR94DJb349S57uYfYY0d',
         content: {
             executiveSummary: "Our analysis of Apple Inc. suggests a target price of $210.00, representing a 15% upside from current levels. The valuation is based on a combination of DCF analysis and comparable company multiples, taking into account Apple's strong ecosystem, growing services business, and robust cash flow generation.",
             investmentThesis: [
