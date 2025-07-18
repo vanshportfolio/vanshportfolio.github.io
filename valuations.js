@@ -1,6 +1,98 @@
 // Valuations Data
 const valuations = [
     {
+        id: 'mcdonalds',
+        title: 'McDonalds Advanced DCF Model [NYSE: MCD]',
+        company: 'Jul 13, 2025',
+        date: '2025',
+        description: 'Built a DCF that told the real story because great brands deserve a valuation to match.',
+        metrics: {
+            targetPrice: '$210.00',
+            upside: '+15%',
+            peRatio: '28.5x',
+            evEbitda: '20.3x'
+        },
+        keyPoints: [
+            'An Advanced dashboard with financial scenarios',
+            'DCF valuation with forward-looking financial projections',
+            'Schedules - Revenue, OpEx, CapEx, NWC, Debt, Equity and FA',
+            'A Wall Street Level Advanced DCF Analysis'
+        ],
+        paymentLink: 'https://buy.stripe.com/14A3cv5HN5IK4xL8z2fYY0f',
+        content: {
+            executiveSummary: "Our analysis of Apple Inc. suggests a target price of $210.00, representing a 15% upside from current levels. The valuation is based on a combination of DCF analysis and comparable company multiples, taking into account Apple's strong ecosystem, growing services business, and robust cash flow generation.",
+            investmentThesis: [
+                'Strong ecosystem lock-in driving high customer retention',
+                'Growing services segment with higher margins',
+                'Robust free cash flow generation enabling continued innovation',
+                'Potential AI integration opportunities across product line'
+            ],
+            financialAnalysis: [
+                'Revenue growth of 8% YoY',
+                'Operating margin expansion to 30%',
+                'Free cash flow of $110 billion',
+                'Return on invested capital of 35%'
+            ],
+            methodology: [
+                'Discounted Cash Flow Analysis',
+                'Comparable Company Analysis',
+                'Sum of the Parts Valuation'
+            ],
+            risks: [
+                'Supply chain disruptions',
+                'Intense competition in key markets',
+                'Regulatory scrutiny',
+                'Macroeconomic headwinds'
+            ]
+        }
+    },
+    {
+        id: 'netflix',
+        title: 'Netflix Advanced DCF Model [NYSE: NFLX]',
+        company: 'Jul 07, 2025',
+        date: '2025',
+        description: 'Built a DCF that told the real story because great brands deserve a valuation to match.',
+        metrics: {
+            targetPrice: '$210.00',
+            upside: '+15%',
+            peRatio: '28.5x',
+            evEbitda: '20.3x'
+        },
+        keyPoints: [
+            'A Financial dashboard that turns numbers into clarity',
+            'DCF valuation with forward-looking financial projections',
+            'Debt Scenario Model with optimal capital structure',
+            'A Wall Street Level Advanced DCF Analysis'
+        ],
+        paymentLink: 'https://buy.stripe.com/6oUbJ1c6b9Z0fcpdTmfYY0e',
+        content: {
+            executiveSummary: "Our analysis of Apple Inc. suggests a target price of $210.00, representing a 15% upside from current levels. The valuation is based on a combination of DCF analysis and comparable company multiples, taking into account Apple's strong ecosystem, growing services business, and robust cash flow generation.",
+            investmentThesis: [
+                'Strong ecosystem lock-in driving high customer retention',
+                'Growing services segment with higher margins',
+                'Robust free cash flow generation enabling continued innovation',
+                'Potential AI integration opportunities across product line'
+            ],
+            financialAnalysis: [
+                'Revenue growth of 8% YoY',
+                'Operating margin expansion to 30%',
+                'Free cash flow of $110 billion',
+                'Return on invested capital of 35%'
+            ],
+            methodology: [
+                'Discounted Cash Flow Analysis',
+                'Comparable Company Analysis',
+                'Sum of the Parts Valuation'
+            ],
+            risks: [
+                'Supply chain disruptions',
+                'Intense competition in key markets',
+                'Regulatory scrutiny',
+                'Macroeconomic headwinds'
+            ]
+        }
+    },
+    {
         id: 'microsoft',
         title: 'Microsoft Advanced DCF Model [NYSE: MSFT]',
         company: 'Jul 04, 2025',
