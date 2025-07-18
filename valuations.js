@@ -18,7 +18,7 @@ const valuations = [
             'Schedules - Revenue, OpEx, CapEx, NWC, Debt, Equity and FA',
             'A Wall Street Level Advanced DCF Analysis'
         ],
-        paymentLink: 'https://buy.stripe.com/14A3cv5HN5IK4xL8z2fYY0f',
+        paymentLink: 'https://buy.stripe.com/eVqeVdgmr8UWe8l16AfYY0g',
         content: {
             executiveSummary: "Our analysis of Apple Inc. suggests a target price of $210.00, representing a 15% upside from current levels. The valuation is based on a combination of DCF analysis and comparable company multiples, taking into account Apple's strong ecosystem, growing services business, and robust cash flow generation.",
             investmentThesis: [
